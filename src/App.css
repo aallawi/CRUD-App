@@ -1,0 +1,30 @@
+
+
+
+html,
+body,
+div, p {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand{
+    font-weight: 700;
+    color: coral !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.swal2-popup.swal2-modal.swal2-icon-warning.swal2-show ,
+.swal2-popup.swal2-modal.swal2-icon-success.swal2-show {
+    justify-items: center;
+    padding-top: 20px;
+}
+
+.form-label {
+    padding-top: 10px;
+}
+

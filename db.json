@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "name": "Ahmed Ali Mohamed",
+      "position": "front end",
+      "salary": "25000",
+      "id": 1
+    },
+    {
+      "name": "Mohamed Esmail",
+      "position": "front end",
+      "salary": "10000",
+      "id": 2
+    },
+    {
+      "name": "Rana Shalaby Awad",
+      "position": "back end",
+      "salary": "30000",
+      "id": 3
+    },
+    {
+      "name": "Mahmoud Smair Malek",
+      "position": "back end",
+      "salary": "12000",
+      "id": 4
+    },
+    {
+      "name": "wael ali Abdallah",
+      "position": "full stack",
+      "salary": 30000,
+      "id": 5
+    },
+    {
+      "name": "Mahmoud Malek",
+      "position": "full stack",
+      "salary": "15000",
+      "id": 6
+    },
+    {
+      "name": "salah hassan adel",
+      "position": "full stack",
+      "salary": 35000,
+      "id": 7
+    }
+  ]
+}
